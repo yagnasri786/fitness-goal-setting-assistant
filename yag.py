@@ -2,7 +2,7 @@ import streamlit as st
 import datetime
 import plotly.express as px
 import pandas as pd
-from PIL imort Image  # Import the Pillow (PIL) library for image manipulation
+from PIL import Image  # Import the Pillow (PIL) library for image manipulation
 
 # Set light mode layout
 st.set_page_config(page_title="Fitness Goal Setting Assistant", layout="wide")
